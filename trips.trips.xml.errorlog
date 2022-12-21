@@ -1,0 +1,48 @@
+Warning: At actuated tlLogic 'cluster_21487209_2480337678_29219440_3831343134_4566145593_4566145597_5747234977_768074054', linkIndex 15 has no controlling detector.
+Warning: At actuated tlLogic 'cluster_21487209_2480337678_29219440_3831343134_4566145593_4566145597_5747234977_768074054', linkIndex 16 has no controlling detector.
+Warning: At actuated tlLogic 'cluster_21487209_2480337678_29219440_3831343134_4566145593_4566145597_5747234977_768074054', linkIndex 17 has no controlling detector.
+Warning: At actuated tlLogic 'cluster_25661397_25662562_3767874527_3767874536_3767874549_3767875478_3767875479_8507892359', linkIndex 6 has no controlling detector.
+Warning: At actuated tlLogic 'cluster_25661397_25662562_3767874527_3767874536_3767874549_3767875478_3767875479_8507892359', linkIndex 7 has no controlling detector.
+Warning: busStop '271388393' on lane '24240246#1_0' is too short for vehicle '8_bus_100:1'.
+Warning: busStop '244487457' on lane '11482920#2_0' is too short for vehicle '22_tram_12:0'.
+Warning: busStop '2175753204' on lane '144014228#2_0' is too short for vehicle '22_tram_12:0'.
+Warning: busStop '1673526976' on lane '167272512#2_0' is too short for vehicle '23_tram_12:1'.
+Warning: busStop '30731700' on lane '167272531#7_0' is too short for vehicle '23_tram_12:1'.
+Warning: busStop '1668497956' on lane '153537614#13_0' is too short for vehicle '32_tram_M1:2'.
+Warning: No connection between edge '319339413' and edge '-169717723#3' found.
+Warning: Vehicle '41_bus_142:0' has no valid route from edge '319339413' to stop edge '-169717723#3'.
+Warning: No connection between edge '-671403217' and edge '-438496646#1' found.
+Warning: busStop '-4294381017' for vehicle '41_bus_142:0' on lane '-671403217_0' is not downstream the current route.
+Warning: busStop '3918673879' on lane '169717723#3_0' is too short for vehicle '42_bus_142:1'.
+Warning: No connection between edge '438496646#0' and edge '39350082#4' found.
+Warning: Vehicle '42_bus_142:1' has no valid route from edge '438496646#0' to stop edge '39350082#4'.
+Warning: No connection between edge '-671403217' and edge '-438496646#1' found.
+Warning: busStop '-4294381017' for vehicle '43_bus_245:0' on lane '-671403217_0' is not downstream the current route.
+Warning: No connection between edge '438496646#0' and edge '-671403217' found.
+Warning: Vehicle '44_bus_245:1' has no valid route from edge '438496646#0' to stop edge '-671403217'.
+Warning: busStop '3869306774' on lane '23755950#0_0' is too short for vehicle '88_bus_147:0'.
+Warning: busStop '-3867910422' on lane '-755551646#0_0' is too short for vehicle '88_bus_147:0'.
+Warning: busStop '3869306762' on lane '111251382#3_0' is too short for vehicle '89_bus_147:1'.
+Warning: Vehicle '75_light_rail_S2:3' has no valid route from edge '459344271' to stop edge '459344271'.
+Warning: busStop '-3858919769' for vehicle '89_bus_147:1' on lane '-1090433701#0_0' is not downstream the current route.
+Warning: Vehicle '88_bus_147:0' has no valid route from edge '438496646#0' to stop edge '1090433701#0'.
+Warning: Railway routing failure due to turn-around on short edge '32590921#1' for vehicle '86_train_RB22:0' time=437.00.
+Warning: Vehicle '86_train_RB22:0' has no valid route from edge '25946661' to stop edge '25946661'.
+Warning: Railway routing failure due to turn-around on short edge '32590921#1' for vehicle '85_train_RB21:1' time=437.00.
+Warning: Vehicle '85_train_RB21:1' has no valid route from edge '25946661' to stop edge '25946661'.
+Warning: Vehicle '92_light_rail_S26:1' has no valid route from edge '109444375#2' to stop edge '109444375#2'.
+Warning: Vehicle '91_light_rail_S26:0' has no valid route from edge '459344271' to stop edge '459344271'.
+Warning: Teleporting vehicle '42_bus_142:1'; waited too long (wrong lane), lane='438496646#0_0', time=541.00.
+Warning: Vehicle '42_bus_142:1' ends teleporting on edge '39350082#4', time=541.00.
+Warning: Teleporting vehicle '41_bus_142:0'; waited too long (wrong lane), lane='319339413_0', time=557.00.
+Warning: Vehicle '41_bus_142:0' ends teleporting on edge '-169717723#3', time=557.00.
+Warning: Teleporting vehicle '44_bus_245:1'; waited too long (wrong lane), lane='438496646#0_0', time=848.00.
+Warning: Vehicle '44_bus_245:1' ends teleporting on edge '-671403217', time=848.00.
+Warning: Teleporting vehicle '85_train_RB21:1'; waited too long (wrong lane), lane='25946661_0', time=888.00.
+Warning: Teleporting vehicle '75_light_rail_S2:3'; waited too long (wrong lane), lane='459344271_0', time=978.00.
+Warning: Vehicle '75_light_rail_S2:3' ends teleporting on edge '459344271', time=978.00.
+Warning: Vehicle '92_light_rail_S26:1' ends teleporting on edge '109444375#2', time=1074.00.
+Warning: 13 total messages of type: At actuated tlLogic '%', linkIndex % has no controlling detector.
+Warning: 12 total messages of type: No connection between edge '%' and edge '%' found.
+Warning: 9 total messages of type: Teleporting vehicle '%'; waited too long (wrong lane), lane='%', time=%.
+Warning: 9 total messages of type: Vehicle '%' ends teleporting on edge '%', time=%.
